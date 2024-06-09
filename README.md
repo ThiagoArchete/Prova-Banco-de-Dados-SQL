@@ -339,4 +339,12 @@ INSERT INTO ForcaMundial (Nome_Forca, Tipo_Forca) VALUES
 
 ## Demonstração de CRUD:
 
+![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD1.png)
 
+![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD2.png)
+
+![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD3.png)
+
+![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD4.png)
+
+![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD5.png)
