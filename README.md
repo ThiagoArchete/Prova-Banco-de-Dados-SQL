@@ -336,3 +336,7 @@ INSERT INTO ForcaMundial (Nome_Forca, Tipo_Forca) VALUES
 ('Revolucionário', 'Exército Revolucionário'),
 ('Supernova', 'Rookie');
 ```
+
+## Demonstração de CRUD:
+
+
