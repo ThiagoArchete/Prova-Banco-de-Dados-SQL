@@ -348,3 +348,67 @@ INSERT INTO ForcaMundial (Nome_Forca, Tipo_Forca) VALUES
 ![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD4.png)
 
 ![](https://github.com/ThiagoArchete/Prova-Banco-de-Dados-SQL/blob/7773a51e5cd9f7f11bf5059f20a92dd4186112f0/imagens/CRUD5.png)
+
+
+## Relatórios
+
+1 - Listar todas as tripulações e seus respectivos navios:
+
+![]()
+
+Esta consulta seleciona e lista todas as tripulações e os nomes de seus navios, ordenando os resultados em ordem alfabética pelo nome da tripulação.
+
+2 - Listar todos os membros de uma tripulação específica:
+
+![]()
+
+Esta consulta lista os membros da tripulação dos "Piratas do Chapéu de Palha", exibindo o nome e a posição de cada membro.
+
+3 - Listar todas as frutas do diabo e suas habilidades:
+
+![]()
+
+Esta consulta lista todas as frutas do diabo, incluindo o nome, tipo e habilidade, ordenadas primeiro pelo tipo de fruta e depois pelo nome da fruta.
+
+4 - Contar o número de membros em cada tripulação:
+
+![]()
+
+Esta consulta conta o número de membros em cada tripulação e ordena os resultados de forma decrescente pelo número de membros.
+
+5 - Membros sem Fruta do Diabo:
+
+![]()
+
+Esta consulta retorna os membros que não possuem uma Fruta do Diabo associada a eles.
+
+6 - Ilhas e suas Tripulações:
+
+![]()
+
+Esta consulta mostra as ilhas e as tripulações que estão associadas a elas, exibindo os nomes das ilhas em ordem alfabética.
+
+7 - Membros das Tripulações de Yonkou:
+
+![]()
+
+Mostra os membros das tripulações dos Yonkou (Imperadores do Mar).
+
+8 - Frutas do Diabo de Tipo Logia:
+
+![]()
+
+Retorna o nome e a habilidade das Frutas do Diabo do tipo Logia.
+
+9 - Membros da Tripulação do Luffy com Idade abaixo de 25 anos:
+
+![]()
+
+Retorna os membros da tripulação do Luffy com idade inferior a 25 anos.
+
+10 - Membros que são Capitães:
+
+![]()
+
+Esta consulta retorna os membros que ocupam a posição de capitão em suas tripulações e permite identificar todos os membros que são capitães em suas respectivas tripulações.
+
