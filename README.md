@@ -5,7 +5,7 @@ Prova de Banco de Dados SQL para matéria de BD referente ao final do primeiro s
 
 ### Descrição Geral
 
-Este cenário foi criado com o intuito de armazenar informações do mundo do anime "One Piece", contendo informações dos personagens, suas respectivas tripulações, suas frutas do diabo caso tiverem, e também as três principais forças mundiais da série, sendo elas os Imperadores do Mar (Yonkous), os Sete Lordes do Mar (Shichibukai) e os Almirantes da Marinha.
+Este cenário foi criado com o intuito de armazenar informações do mundo do anime "One Piece", contendo informações dos personagens, suas respectivas tripulações, suas frutas do diabo caso tiverem, e também as três principais forças mundiais da série, sendo elas os Imperadores do Mar (Yonkous), os Sete Lordes do Mar (Shichibukai) e os Almirantes da Marinha, entre outros tipos de dados.
 
 Toda a estrutura do banco de dados foi criada para representar, armazenar e demonstrar as informações do anime.
 
